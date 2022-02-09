@@ -1,2 +1,3 @@
-# odin-recipes
-To be completed at end of project to show what I have learned
+# recipes
+- Learned how to create and structure html files
+- Leanred how to create a proper folder structure
